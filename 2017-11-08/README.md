@@ -3,6 +3,6 @@
 1. Marko Mlinarević: FuseBox
 
 2. Nikola Derežić: Jekyll - the WordPress killer
-  - Presentation link: [Jekyll the WP Killer - ZG Frontman Meetup](https://docs.google.com/presentation/d/1VvbhxLfLkqFPmGdTo3MNbF7jeXsF8tE_Ri2487OFLBo)
+    Presentation link: [Jekyll the WP Killer - ZG Frontman Meetup](https://docs.google.com/presentation/d/1VvbhxLfLkqFPmGdTo3MNbF7jeXsF8tE_Ri2487OFLBo)
 
-  - Github repository: [jekyll-meetup-lecture](https://github.com/knee-cola/jekyll-meetup-lecture "jekyll-meetup-lecture")
+    Github repository: [jekyll-meetup-lecture](https://github.com/knee-cola/jekyll-meetup-lecture "jekyll-meetup-lecture")
